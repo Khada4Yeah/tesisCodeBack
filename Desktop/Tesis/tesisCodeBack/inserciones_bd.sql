@@ -1,0 +1,2 @@
+INSERT INTO esq_homo.modalidades VALUES (1, 'PRESENCIAL', 'H'), (2, 'VIRTUAL', 'H'), (3, 'HIBRIDA', 'H');
+INSERT INTO esq_homo.cargos VALUE (1, 'ADMIN', 'H'), (2, 'VICEDECANO', 'H'), (3, 'RESPONSABLE DE LA COMISIÓN', 'H'), (4, 'COORDINADOR MATERIAS', 'H');
